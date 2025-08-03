@@ -9,7 +9,7 @@ i'm passionate about software and blockchain.
 
 **My Skills:**
 -   **Languages:** python, rust, solidity
--   **Frameworks/Libraries:** tokio, serde, libp2p.
+-   **Frameworks/Libraries:** tokio, serde, libp2p, foundry, alloy.
 -   **Tools:** git, docker, cargo.
 
 

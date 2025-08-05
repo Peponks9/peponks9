@@ -11,7 +11,7 @@ i'm passionate about software and blockchain.
 - Languages: python, rust, solidity
 - Blockchain: foundry, alloy,
 - Rust Ecosystem: tokio, serde, libp2p, actix-web
-- AI/ML: langchain, vector db, rag
+- AI/ML: rag, langchain, vector db
 - Tools: git, docker, cargo
 
 

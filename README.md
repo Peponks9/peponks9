@@ -1,4 +1,4 @@
-# Hi there, I'm José! 👋
+## Hi there, I'm José! 👋
 
 i'm passionate about software and blockchain.
 

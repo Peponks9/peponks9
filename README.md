@@ -9,7 +9,7 @@ i'm passionate about software and blockchain.
 
 **My Skills:**
 - Languages: python, rust, solidity
-- Rust Ecosystem: tokio, serde, libp2p, actix-web
+- Rust Ecosystem: tokio, serde, libp2p, axum
 - AI/ML: rag, langchain, vector db
 
 

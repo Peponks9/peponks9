@@ -2,8 +2,7 @@
 
 i'm passionate about software and blockchain.
 
--   🌱 **Currently learning:** rust and descentralized systems 🦀
--   🔭 **Building:** wafra.money and contributing to oss
+-   🌱 **Currently :** rust pilled and descentralized systems 🦀
 
 ---
 

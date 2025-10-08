@@ -2,11 +2,11 @@
 
 i'm passionate about software and blockchain.
 
-**Currently :** rust pilled and descentralized systems 🦀
+**currently :** rust pilled and descentralized systems 🦀
 
-**My Skills:**
-- Languages: rust, python, solidity
-- Rust Ecosystem: tokio, serde, libp2p, axum
-- AI/ML: rag, langchain, vector db
+**my skills:**
+- languages: rust, python, solidity
+- rust eco: tokio, serde, libp2p, axum
+- ai / ml: rag, langchain, vector db
 
 

@@ -1,8 +1,6 @@
 ## howdy, i'm josé! 👋
 
-i'm passionate about software and blockchain.
-
-**currently :** rust pilled and distributed systems 🦀
+rust pilled and distributed systems 🦀
 
 **my skills:**
 - languages: rust, python, solidity

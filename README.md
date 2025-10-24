@@ -2,7 +2,7 @@
 
 i'm passionate about software and blockchain.
 
-**currently :** rust pilled and descentralized systems 🦀
+**currently :** rust pilled and distributed systems 🦀
 
 **my skills:**
 - languages: rust, python, solidity

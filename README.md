@@ -1,4 +1,3 @@
-## howdy, i'm josé! 👋
 
 rust pilled and distributed systems 🦀
 

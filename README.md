@@ -1,5 +1,5 @@
 
-rust pilled and distributed systems 🦀
+rust pilled swe and distributed systems 🦀
 
 **my skills:**
 - languages: rust, python, solidity
